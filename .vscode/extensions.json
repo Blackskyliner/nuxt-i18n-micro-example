@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "vue.volar",
+        "lokalise.i18n-ally",
+        "yoavbls.pretty-ts-errors",
+        "antfu.goto-alias",
+        "dbaeumer.vscode-eslint"
+    ]
+}

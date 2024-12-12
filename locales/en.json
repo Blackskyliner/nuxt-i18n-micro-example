@@ -1,0 +1,5 @@
+{
+    "layout.default.header": "Minimal Starter",
+    "layout.default.slogan": "We will introduce nuxt-i18n-micro to the i18n-ally project today!",
+    "link.back": "Back"
+}
